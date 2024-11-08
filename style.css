@@ -6,6 +6,11 @@
 }
 /* MENU SUPERIOR */
 
+body {
+    background-color: #000;
+    color: #ffffff;
+}
+
 .caixa-roxa {
     display: flex;
     height: 50px;
@@ -24,7 +29,7 @@ ul {
 li {
     font-size: 12px;
     font-weight: 400;
-    color: #373737;
+    color: #545353;
 }
 
 .logo {
@@ -107,7 +112,7 @@ li {
 
 .escolha-cor {
     font-size: 16px;
-    color: #3a3a3a;
+    color: #848181;
     font-weight: 700;
     margin-top: 50px;
     margin-bottom: 15px;
